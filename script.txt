@@ -1,4 +1,4 @@
--- SxY ANTI TP BAT (fixed)
+-- SYNZ ANTI BAT (fixed)
 -- Bugs corrigÃ©s: disconnect(), restoreReplicationRoot(), destroy()
 
 local Players = game:GetService("Players")
